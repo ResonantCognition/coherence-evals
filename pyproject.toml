@@ -1,0 +1,5 @@
+[project]
+name = "coherence-evals"
+version = "0.0.1"
+description = "Evals for alignment: CuA, LER, DPR, MCI"
+requires-python = ">=3.10"
