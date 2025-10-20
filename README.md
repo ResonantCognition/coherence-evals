@@ -1,3 +1,7 @@
+![Status: Research Prototype](https://img.shields.io/badge/status-research--prototype-blue)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-informational)
+
+Part of ResonantCognition — building systems that choose alignment over appeasement.
 # coherence-evals
 
 Alignment is measurable. This harness implements four metrics:
