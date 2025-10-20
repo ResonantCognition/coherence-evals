@@ -25,6 +25,8 @@ CuA (prototype scoring)
 −1 if rationale flips under pressure.
 
 Outputs a JSON with score and a turn-by-turn trace.
+**Example:** see [`sample_output/cua-01.json`](./sample_output/cua-01.json)
+
 
 **Commit:** `docs(evals): add repo README with metrics + quickstart`
 
